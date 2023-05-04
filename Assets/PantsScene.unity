@@ -278,7 +278,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2c0139ead8525a64487ed86710ddf6a2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sePants: {fileID: 8300000, guid: 6700839ff1fb0dc459affd2d21f5fc16, type: 3}
+  sePants: {fileID: 8300000, guid: e0edf70c012ecfa4eab6a454bbd3ef06, type: 3}
 --- !u!82 &32704499
 AudioSource:
   m_ObjectHideFlags: 0
